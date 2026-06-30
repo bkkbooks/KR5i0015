@@ -1,0 +1,22 @@
+canonical_identifier: bkk:krp/KR5i0015/CK-KZ-jye/v1/juan/3
+seq: 3
+front:
+  text: 高上玉皇本行集經高上玉皇本行集經卷中
+  hash: sha256:79ed8fa6c24e3e53ca0eb38b235439b2501bef8c8deeb52b878fe6b0aff75d2e
+  markers:
+  - {type: page-break, offset: 8, content: '', id: CK-KZ_KR5i0015_03p001a}
+body:
+  text: 開經讚太梵三天主虛皇五老尊尚難窺竅妙豈復入名言寶座臨金殿霞光照玉軒萬神朝帝所飛舄躡雲端大聖玉皇赦罪大天尊三稱三拜
+  hash: sha256:744eea222e414802117586bb636489fef6ec4968cc5cfcfa34896c5008e4e4bb
+metadata:
+  title: 高上玉皇本行集經
+  edition:
+    short: CK-KZ-jye
+  date: '2015-08-29 17:48:42.631961'
+  source:
+    repository: kanripo
+    path: KR5i0015/KR5i0015_003.txt
+  image_base_urls:
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+hash: sha256:c6f83a466dc3132dfe4243b83a8c2b493af09f8c1ccfde68223a7d787e8c1eab

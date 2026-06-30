@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR5i0015/krp/v1/juan/5
+seq: 5
+front:
+  text: 高上玉皇本行集經高上玉皇本行集經卷下
+  hash: sha256:6837beb3d5cb0b312a29dc0b51bea32ad95c796ef1a741b64224d58affc99fe2
+  markers:
+  - {type: page-break, offset: 8, content: '', id: CK-KZ_KR5i0015_05p001a}
+body:
+  text: 開經讚大道洞玄虛有念無不契煉質入仙真遂成金剛體超度三界難地獄五苦解悉皈高上經䖍誠稽首禮大聖玉皇赦罪大天尊三稱三拜
+  hash: sha256:59c9359025853b85598bd4df3b84cae56f59399539b0efaf44bfbdcf716916b0
+metadata:
+  title: 高上玉皇本行集經
+  edition:
+    short: krp
+  base_edition: CK-KZ
+  date: '2015-08-29 17:48:42.631961'
+  source:
+    repository: kanripo
+    path: KR5i0015/KR5i0015_005.txt
+  image_base_urls:
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+hash: sha256:1e208be0bdd40ca7eb9bdd45692c4a55df837c2b44f035b0c5b6e7e3b690d0d7

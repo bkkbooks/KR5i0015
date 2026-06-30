@@ -1,0 +1,89 @@
+canonical_identifier: bkk:krp/KR5i0015/bkk/v1/markers/3
+seq: 3
+markers:
+  front:
+  - {type: comment, offset: 0, content: '#-*- mode: org; -*-', id: KR5i0015_krp_003-bkkcommen1}
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR5i0015_krp_003-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: KR5i0015_CK-KZ_003-front01}
+  - {type: 'kr:non-cjk', offset: 0, content: '#+DATE:', id: KR5i0015_krp_003-bkkkrnonc1}
+  - {type: 'kr:non-cjk', offset: 0, content: '2015-08-29', id: KR5i0015_krp_003-bkkkrnonc2}
+  - {type: 'kr:non-cjk', offset: 0, content: '17:48:42.515052', id: KR5i0015_krp_003-bkkkrnonc3}
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR5i0015_krp_003-bkkkrnewl2}
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR5i0015_krp_003-bkkkrnewl3}
+  - {type: line-break, offset: 0, content: '', id: KR5i0015_CK-KZ_003-front02}
+  - {type: 'kr:non-cjk', offset: 0, content: '#+TITLE:', id: KR5i0015_krp_003-bkkkrnonc4}
+  - {type: variant, offset: 0, length: 8, content: 高上玉皇本行集經, YP-C: ''}
+  - {type: 'kr:non-cjk', offset: 8, content: Gaoshang, id: KR5i0015_krp_003-bkkkrnonc5}
+  - {type: 'kr:non-cjk', offset: 8, content: Yuhuang, id: KR5i0015_krp_003-bkkkrnonc6}
+  - {type: 'kr:non-cjk', offset: 8, content: Benxing, id: KR5i0015_krp_003-bkkkrnonc7}
+  - {type: 'kr:non-cjk', offset: 8, content: Jijing, id: KR5i0015_krp_003-bkkkrnonc8}
+  - {type: 'kr:newline', offset: 8, content: '
+
+      ', id: KR5i0015_krp_003-bkkkrnewl4}
+  - {type: 'kr:newline', offset: 8, content: '
+
+      ', id: KR5i0015_krp_003-bkkkrnewl5}
+  - {type: 'kr:newline', offset: 8, content: '
+
+      ', id: KR5i0015_krp_003-bkkkrnewl6}
+  - {type: 'kr:newline', offset: 8, content: '
+
+      ', id: KR5i0015_krp_003-bkkkrnewl7}
+  - {type: line-break, offset: 8, content: '', id: CK-KZ_KR5i0015_03p001a01}
+  - {type: page-break, offset: 8, content: '', id: YP-C_KR5i0015_07miji-01-0039b}
+  - {type: page-break, offset: 8, content: '', id: YP-C_KR5i0015_07miji-02-0001a}
+  body:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR5i0015_krp_003-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: CK-KZ_KR5i0015_03p001a02}
+  - {type: indent, offset: 0, content: 　, id: KR5i0015_krp_003-bkkind1}
+  - {type: 'kr:newline', offset: 3, content: '
+
+      ', id: KR5i0015_krp_003-bkkkrnewl2}
+  - {type: line-break, offset: 3, content: '', id: CK-KZ_KR5i0015_03p001a03}
+  - {type: 'kr:non-cjk', offset: 3, content: '#+BEGIN_VERSE', id: KR5i0015_krp_003-bkkkrnonc1}
+  - {type: 'kr:newline', offset: 3, content: '
+
+      ', id: KR5i0015_krp_003-bkkkrnewl3}
+  - {type: line-break, offset: 3, content: '', id: CK-KZ_KR5i0015_03p001a04}
+  - {type: indent, offset: 8, content: 　, id: KR5i0015_krp_003-bkkind2}
+  - {type: indent, offset: 13, content: 　, id: KR5i0015_krp_003-bkkind3}
+  - {type: indent, offset: 18, content: 　, id: KR5i0015_krp_003-bkkind4}
+  - {type: 'kr:newline', offset: 23, content: '
+
+      ', id: KR5i0015_krp_003-bkkkrnewl4}
+  - {type: line-break, offset: 23, content: '', id: CK-KZ_KR5i0015_03p001a05}
+  - {type: indent, offset: 28, content: 　, id: KR5i0015_krp_003-bkkind5}
+  - {type: indent, offset: 33, content: 　, id: KR5i0015_krp_003-bkkind6}
+  - {type: indent, offset: 38, content: 　, id: KR5i0015_krp_003-bkkind7}
+  - {type: 'kr:newline', offset: 43, content: '
+
+      ', id: KR5i0015_krp_003-bkkkrnewl5}
+  - {type: line-break, offset: 43, content: '', id: CK-KZ_KR5i0015_03p001a06}
+  - {type: punctuation, offset: 52, content: (, id: KR5i0015_krp_003-bkkpn1}
+  - {type: punctuation, offset: 56, content: ), id: KR5i0015_krp_003-bkkpn2}
+  - {type: 'kr:newline', offset: 56, content: '
+
+      ', id: KR5i0015_krp_003-bkkkrnewl6}
+  - {type: line-break, offset: 56, content: '', id: CK-KZ_KR5i0015_03p001a07}
+  - {type: 'kr:non-cjk', offset: 56, content: '#+END_VERSE', id: KR5i0015_krp_003-bkkkrnonc2}
+  - {type: 'kr:newline', offset: 56, content: '
+
+      ', id: KR5i0015_krp_003-bkkkrnewl7}
+  - {type: line-break, offset: 56, content: '', id: CK-KZ_KR5i0015_03p001a08}
+  - {type: 'kr:newline', offset: 56, content: '
+
+      ', id: KR5i0015_krp_003-bkkkrnewl8}
+  - {type: line-break, offset: 56, content: '', id: CK-KZ_KR5i0015_03p001a09}
+  - {type: 'kr:newline', offset: 56, content: '
+
+      ', id: KR5i0015_krp_003-bkkkrnewl9}
+  back: []
+hash: sha256:e8ac1d8776cb93c231811d17668f525ec4fed61e327132a2dd498bafc951a8c2

@@ -1,0 +1,43 @@
+canonical_identifier: bkk:krp/KR5i0015/YP-C/v1/markers/3
+seq: 3
+markers:
+  front:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR5i0015_YP-C_003-bkkkrnewl1}
+  - {type: page-break, offset: 0, content: '', id: YP-C_KR5i0015_07miji-02-0001a}
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR5i0015_YP-C_003-bkkkrnewl2}
+  - {type: line-break, offset: 0, content: '', id: YP-C_KR5i0015_07miji-02-0001a01}
+  body:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR5i0015_YP-C_003-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: YP-C_KR5i0015_07miji-02-0001a02}
+  - {type: indent, offset: 0, content: 　, id: KR5i0015_YP-C_003-bkkind1}
+  - {type: 'kr:newline', offset: 3, content: '
+
+      ', id: KR5i0015_YP-C_003-bkkkrnewl2}
+  - {type: line-break, offset: 3, content: '', id: YP-C_KR5i0015_07miji-02-0001a03}
+  - {type: indent, offset: 8, content: 　, id: KR5i0015_YP-C_003-bkkind2}
+  - {type: indent, offset: 13, content: 　, id: KR5i0015_YP-C_003-bkkind3}
+  - {type: indent, offset: 18, content: 　, id: KR5i0015_YP-C_003-bkkind4}
+  - {type: 'kr:newline', offset: 23, content: '
+
+      ', id: KR5i0015_YP-C_003-bkkkrnewl3}
+  - {type: line-break, offset: 23, content: '', id: YP-C_KR5i0015_07miji-02-0001a04}
+  - {type: indent, offset: 28, content: 　, id: KR5i0015_YP-C_003-bkkind5}
+  - {type: indent, offset: 33, content: 　, id: KR5i0015_YP-C_003-bkkind6}
+  - {type: indent, offset: 38, content: 　, id: KR5i0015_YP-C_003-bkkind7}
+  - {type: 'kr:newline', offset: 43, content: '
+
+      ', id: KR5i0015_YP-C_003-bkkkrnewl4}
+  - {type: line-break, offset: 43, content: '', id: YP-C_KR5i0015_07miji-02-0001a05}
+  - {type: punctuation, offset: 52, content: (, id: KR5i0015_YP-C_003-bkkpn1}
+  - {type: punctuation, offset: 56, content: ), id: KR5i0015_YP-C_003-bkkpn2}
+  - {type: 'kr:newline', offset: 56, content: '
+
+      ', id: KR5i0015_YP-C_003-bkkkrnewl5}
+  back: []
+hash: sha256:31533a895682ace5f509e37aa877cc68d7d2fa03ac8c62fa15e8ad87ebcbb235
