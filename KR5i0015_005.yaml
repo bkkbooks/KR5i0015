@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 8, content: '', id: CK-KZ_KR5i0015_05p001a}
 body:
-  text: 開經讚大道洞玄虛有念無不契煉質入仙眞遂成金剛體超度三界難地獄五苦解悉皈高上經䖍誠稽首禮大聖玉皇赦罪大天尊三稱三拜
-  hash: sha256:336463d04c017389f8d3fc7c3425e642bb9314ae74be4d0b9a8b05d6e3918f74
+  text: 開經讚大道洞玄虛有念無不契煉質入仙真遂成金剛體超度三界難地獄五苦解悉皈高上經虔誠稽首禮大聖玉皇赦罪大天尊三稱三拜
+  hash: sha256:1a2f9393e60915bd8c41dda0a46bb6b32292ec25600e640b9873f3f5cc0c44ec
 metadata:
   title: 高上玉皇本行集經
   edition:
@@ -20,4 +20,4 @@ metadata:
   image_base_urls:
     CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
     YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
-hash: sha256:4b550d3dfcd91d88af1d3752d5e90606e9c689d1f5e5d19dad7480cb92de2b3f
+hash: sha256:400a07387f72a2e654530c9b97f21137f09ae00c10318e928a04bccf3f426034
