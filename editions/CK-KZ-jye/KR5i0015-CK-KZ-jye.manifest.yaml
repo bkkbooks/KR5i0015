@@ -27,11 +27,11 @@ assets:
   - {seq: 6, filename: KR5i0015_006-CK-KZ-jye.yaml, hash: 'sha256:77e0a041fcd44e2414d80cc617badb6897be851893b73ab2cfd2e4775237dd5d'}
   markers:
   - {seq: 1, role: markers, filename: assets/KR5i0015_001-CK-KZ-jye.markers.yaml, hash: 'sha256:2a6f44e14e621948572deed9f4838f27c22b8949b1e94f3278f88112f6d7a43d'}
-  - {seq: 2, role: markers, filename: assets/KR5i0015_002-CK-KZ-jye.markers.yaml, hash: 'sha256:eebb73f1b7ed2f04b0a9a80603c4b00c48daa5a2471dd7e20efece8cee529a0d'}
-  - {seq: 3, role: markers, filename: assets/KR5i0015_003-CK-KZ-jye.markers.yaml, hash: 'sha256:60bf06149bb6d84aed86fa4aa9fcc64301920b5eab7b503d904cccd48ac10c1e'}
-  - {seq: 4, role: markers, filename: assets/KR5i0015_004-CK-KZ-jye.markers.yaml, hash: 'sha256:a8f4d0cd4265988877f4c4042070e708c598d2768677443409fc4e339a34701a'}
-  - {seq: 5, role: markers, filename: assets/KR5i0015_005-CK-KZ-jye.markers.yaml, hash: 'sha256:f40d55b1d7db273d7e733345dca07e026f17e4059a3bc3014c176027d1d13d36'}
-  - {seq: 6, role: markers, filename: assets/KR5i0015_006-CK-KZ-jye.markers.yaml, hash: 'sha256:0c5e4a1014316237cb9faae3c2e2f80cdf2b0bfd480fa18faf6a796b600c723e'}
+  - {seq: 2, role: markers, filename: assets/KR5i0015_002-CK-KZ-jye.markers.yaml, hash: 'sha256:148a0a8c1a5fea6a263e97452902e5f9ec5a52bcba1e564ab648617d9ee70688'}
+  - {seq: 3, role: markers, filename: assets/KR5i0015_003-CK-KZ-jye.markers.yaml, hash: 'sha256:3286b8787a20e60777f9fedc338b45c5992ca9467b010a5b23191c4bc976e9f5'}
+  - {seq: 4, role: markers, filename: assets/KR5i0015_004-CK-KZ-jye.markers.yaml, hash: 'sha256:82fc9a006b1288c1ab7b70471acc9a7a9cb24adb08c54edb0ab55f85b90be578'}
+  - {seq: 5, role: markers, filename: assets/KR5i0015_005-CK-KZ-jye.markers.yaml, hash: 'sha256:92d0443dc0f3b4ec8882df48967aad2d59148b058d9d9f156c5f7d76b9469d4f'}
+  - {seq: 6, role: markers, filename: assets/KR5i0015_006-CK-KZ-jye.markers.yaml, hash: 'sha256:31abda2017fbd00cff8f3fc682ee46d993f6c420d0e8154c6858f4356b14e4cc'}
 table_of_contents:
 - ref:
     seq: 1
@@ -93,4 +93,4 @@ table_of_contents:
   label: juan 006
   type: section
   level: 1
-hash: sha256:c84d18c403fe8fa4d346da9f8cebda782fe9885541dcc11c3653fa08f42f4aad
+hash: sha256:3a1d85c27dbf12739ccd4cfab68a3b3a7d5e538f933a4ef89ea10268745cc0e4

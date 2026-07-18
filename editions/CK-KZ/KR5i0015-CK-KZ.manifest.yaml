@@ -28,11 +28,11 @@ assets:
   - {seq: 6, filename: KR5i0015_006-CK-KZ.yaml, hash: 'sha256:7db62ef7796ffbf7a37743a6f7069973c93ee91ae3749022e9b033aeedfd318a'}
   markers:
   - {seq: 1, role: markers, filename: assets/KR5i0015_001-CK-KZ.markers.yaml, hash: 'sha256:c8a3575ed9587dc49391fc190f780f68c85af96e98513c25d166c50a421db226'}
-  - {seq: 2, role: markers, filename: assets/KR5i0015_002-CK-KZ.markers.yaml, hash: 'sha256:54c1efdbfae5563c23d074a69fff86a1c14f2ca887a50016440029e37f8603b1'}
-  - {seq: 3, role: markers, filename: assets/KR5i0015_003-CK-KZ.markers.yaml, hash: 'sha256:c6736001fccb56e78886856fe62283559150f89abe8228791c867f56fc9dfeb4'}
-  - {seq: 4, role: markers, filename: assets/KR5i0015_004-CK-KZ.markers.yaml, hash: 'sha256:99e9ade1b99f7efe0c5ca90e9751c2ab4bd53f091295dabdee2d358ff195b954'}
-  - {seq: 5, role: markers, filename: assets/KR5i0015_005-CK-KZ.markers.yaml, hash: 'sha256:144511e0c0795e94018bc41ad70688ad42b526f895fbc6bde682c38d632ce54e'}
-  - {seq: 6, role: markers, filename: assets/KR5i0015_006-CK-KZ.markers.yaml, hash: 'sha256:7b945a3628cdfc72f4719c9555b3d024e88090b0f3d6838ad28ab5dd65fcb071'}
+  - {seq: 2, role: markers, filename: assets/KR5i0015_002-CK-KZ.markers.yaml, hash: 'sha256:d17abe00938fbed13c6dca8e0a0049361d75570e55cd66f2820ee226fc67d2f4'}
+  - {seq: 3, role: markers, filename: assets/KR5i0015_003-CK-KZ.markers.yaml, hash: 'sha256:145a7dea55fdc414ac08164b744e3baeb771b59cdfade5c1abb6c221310d42b4'}
+  - {seq: 4, role: markers, filename: assets/KR5i0015_004-CK-KZ.markers.yaml, hash: 'sha256:5d81d30e89d9c5274933052d8112ef4048a0d7a5ae1d79921b1a4d40928b3199'}
+  - {seq: 5, role: markers, filename: assets/KR5i0015_005-CK-KZ.markers.yaml, hash: 'sha256:9ba00c7775ae057d89f4de75c4799ce13691a47a258d6695d86232a04aabcd8d'}
+  - {seq: 6, role: markers, filename: assets/KR5i0015_006-CK-KZ.markers.yaml, hash: 'sha256:9b7894b9bad3d0f0e3bb77f58c74192b5fc045203b8d1cd021a76bbaa0fb5f60'}
 table_of_contents:
 - ref:
     seq: 1
@@ -94,4 +94,4 @@ table_of_contents:
   label: juan 006
   type: section
   level: 1
-hash: sha256:dbfeea25e45a0ad6d4bd172131e7be95c074a71608c3e0cd435a09d7d50d69ac
+hash: sha256:bca0b6950799f4bd58084d98f3c347d5813f11a42f2f46dc6b4225231b5b73ca
